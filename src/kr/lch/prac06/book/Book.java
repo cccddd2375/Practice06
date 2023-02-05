@@ -10,6 +10,7 @@ public abstract class Book {
     public Book(String title, String author) {
         this.title = title;
         this.author = author; // hi
+        // hello
     }
 
     // abstract method 를 만들 수 있다.
